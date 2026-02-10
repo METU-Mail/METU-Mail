@@ -1,2 +1,2 @@
-Terms: [Click Here](/Terms.md)
-Pravicy Policy: [Click Here](/PravicyPolicy.md)
+Terms: [Click Here](/Terms.md) \n
+Pravicy Policy: [Click Here](/PrivacyPolicy.md)
